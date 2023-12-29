@@ -6,9 +6,12 @@ layout: page
 
 <img src="https://github.com/GuangLun2000/GuangLun2000.github.io/assets/155121018/d672432b-9fbe-4de6-9aa9-23c7ca8fc3fb" width="360" height="480">
 
-Here is **huangjinmei(南宁学院）**.
+Here is **emo姐黄金梅**.
 
-I am a senior undergrad majoring in **123456** at Fuzhou University and Maynooth University (Combined degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)'s team at Cambridge University. Recently, I have been selected as an **123456**.
+我是南宁学院（经济学士学位）金融科技专业的大三本科生。目前，我在数据实验室担任研究助理，由徐哲壮教授和袁萌博士指导。我还与剑桥大学的Pietro Liò教授的团队一起度过了一个愉快的暑期研究项目。最近，我被选为人大代表。
+
+如果您对我的任何方面感兴趣，我很乐意聊天和合作，请给我发电子邮件 - 3074726880@qq.com
+
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
 
