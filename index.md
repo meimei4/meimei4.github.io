@@ -34,7 +34,7 @@ Expect to apply for a one-year MPhil program and will graduate in Sep 2025. Look
 - Industrial Automation
 - Network and Cybersecurity
 - Applied Machine Learning
-- [My latest research proposal](https://caihanlin.com/file/proposal-2023.pdf) 🔗
+- [https://github.com/GuangLun2000/GuangLun2000.github.io/assets/155121018/df2e8f1e-46ab-41cf-b915-c480e70ab4ed] 🔗
 
 My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
