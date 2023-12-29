@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://github.com/GuangLun2000/GuangLun2000.github.io/assets/155121018/d672432b-9fbe-4de6-9aa9-23c7ca8fc3fb" width="360" height="480">
 
-这里是 **emo姐黄金梅**.
+这里是 **emo姐黄金梅**
 
 我是南宁学院（经济学士学位）金融科技专业的大三本科生。目前，我在数据实验室担任研究助理，由徐哲壮教授和袁萌博士指导。我还与剑桥大学的Pietro Liò教授的团队一起度过了一个愉快的暑期研究项目。最近，我被选为人大代表。
 
