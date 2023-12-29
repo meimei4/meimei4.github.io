@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# 关于姐:
+# 关于姐
 
 <img src="https://github.com/GuangLun2000/GuangLun2000.github.io/assets/155121018/d672432b-9fbe-4de6-9aa9-23c7ca8fc3fb" width="360" height="480">
 
